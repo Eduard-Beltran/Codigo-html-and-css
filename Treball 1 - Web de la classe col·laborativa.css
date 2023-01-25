@@ -1,0 +1,7 @@
+body {background-color:cadetblue;}
+th, td {
+padding: 8px;
+border: 1px solid orange;
+font-family: sans-serif;
+color: midnightblue;
+}
